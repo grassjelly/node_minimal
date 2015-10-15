@@ -11,3 +11,4 @@ sudo npm install
 ```
 node server.js
 ```
+3. Open url: http://localhost:8000
